@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(243, 129, 182);
+}
+
+img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+img#gabi {
+    border-color: rgb(255, 17, 0);
+    width: 250px;
+    border-radius: 65%;
+}
